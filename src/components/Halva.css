@@ -1,0 +1,18 @@
+.halva {
+  margin-top: 200px;
+}
+.wild {
+  background-color: #abafd6;
+  width: 800px;
+  min-height: 570px;
+  border-radius: 0px 200px 0px 0px;
+  padding: 50px;
+  padding-top: 100px;
+  /* padding-left: 150px; */
+}
+.hand {
+  background-color: #ec4844;
+  max-width: 445px;
+  min-height: 550px;
+  padding: 50px;
+}
